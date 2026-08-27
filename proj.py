@@ -1,1 +1,1 @@
-proj.
+print("hello, world")
